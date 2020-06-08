@@ -1,0 +1,11 @@
+C:\Users\Jerald Siby\source\repos\StringCalculator_Jerald\StringCalculator_Jerald\bin\Debug\netcoreapp2.2\StringCalculator_Jerald.deps.json
+C:\Users\Jerald Siby\source\repos\StringCalculator_Jerald\StringCalculator_Jerald\bin\Debug\netcoreapp2.2\StringCalculator_Jerald.runtimeconfig.json
+C:\Users\Jerald Siby\source\repos\StringCalculator_Jerald\StringCalculator_Jerald\bin\Debug\netcoreapp2.2\StringCalculator_Jerald.runtimeconfig.dev.json
+C:\Users\Jerald Siby\source\repos\StringCalculator_Jerald\StringCalculator_Jerald\bin\Debug\netcoreapp2.2\StringCalculator_Jerald.dll
+C:\Users\Jerald Siby\source\repos\StringCalculator_Jerald\StringCalculator_Jerald\bin\Debug\netcoreapp2.2\StringCalculator_Jerald.pdb
+C:\Users\Jerald Siby\source\repos\StringCalculator_Jerald\StringCalculator_Jerald\obj\Debug\netcoreapp2.2\StringCalculator_Jerald.csprojAssemblyReference.cache
+C:\Users\Jerald Siby\source\repos\StringCalculator_Jerald\StringCalculator_Jerald\obj\Debug\netcoreapp2.2\StringCalculator_Jerald.csproj.CoreCompileInputs.cache
+C:\Users\Jerald Siby\source\repos\StringCalculator_Jerald\StringCalculator_Jerald\obj\Debug\netcoreapp2.2\StringCalculator_Jerald.AssemblyInfoInputs.cache
+C:\Users\Jerald Siby\source\repos\StringCalculator_Jerald\StringCalculator_Jerald\obj\Debug\netcoreapp2.2\StringCalculator_Jerald.AssemblyInfo.cs
+C:\Users\Jerald Siby\source\repos\StringCalculator_Jerald\StringCalculator_Jerald\obj\Debug\netcoreapp2.2\StringCalculator_Jerald.dll
+C:\Users\Jerald Siby\source\repos\StringCalculator_Jerald\StringCalculator_Jerald\obj\Debug\netcoreapp2.2\StringCalculator_Jerald.pdb
